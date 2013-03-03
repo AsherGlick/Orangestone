@@ -22,3 +22,7 @@ From a blank server you will need to run the following commands
 Now that everything is set up you should be able to run the scripts properly
 
 If you are planning on using these scripts to run more then one server then you can create multiple permission groups and multiple daemon users, one for each server that will be run. A single admin can have permissions to modify multiple servers if this is the case, and you can also still have multiple admins on each server
+
+More information coming about how to configure the base 'redstone' scripts after I figure them out compleetly
+
+The original Redstone Scripts were made by Josh Komoroske
