@@ -1,4 +1,2 @@
-apt-get install screen
-apt-get install sudo
+apt-get install screen sudo default-jdk
 chmod u+s /usr/bin/screen
-apt-get install default-jdk
